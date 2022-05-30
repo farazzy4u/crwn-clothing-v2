@@ -10,3 +10,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a {
+  text-decoration: none;
+  color:black;
+  // padding: 10px 15px;// replace a tag
+}
+
+* {
+  box-sizing:border-box;
+}
