@@ -38,6 +38,7 @@ $main-color: black;
 		pointer-events: none;
 		left: 5px;
 		top: 10px;
+		transform: translateY(-100%);
 		transition: 300ms ease all;
 		&.shrink {
 			@include shrinkLabel();
